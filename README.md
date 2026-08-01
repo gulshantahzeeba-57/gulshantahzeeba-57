@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B5E20,100:43A047&height=220&section=header&text=Gulshan%20Tahzeeba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%26%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B5E20,100:43A047&height=220&section=header&text=Gulshan%20Tahzeeba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20and%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- <img src="assets/profile.png" width="130" style="border-radius:50%"/> -->
 
