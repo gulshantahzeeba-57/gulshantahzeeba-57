@@ -26,22 +26,34 @@ Hi, I'm Gulshan — a WordPress and full stack developer based in Bahawalpur, Pa
 
 ### 🎓 Education
 
+<div align="center">
+
 | 🏫 Institution | 🎓 Program | 📅 Status |
 |---|---|---|
 | The Islamia University of Bahawalpur | BS Computer Science | 6th Semester |
 
+</div>
+
 ### 📜 Certifications
+
+<div align="center">
 
 | Certificate | Issuer | Details |
 |---|---|---|
 | WordPress Development | Microtech IT Solutions, Bahawalpur | Grade: A+ · Nov 2023 – Feb 2024 |
 
+</div>
+
 <div align="center">
+  
 <img src="assets/certificate-wordpress.png" width="500"/>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+<div align="center">
+  
 ### 💼 Experience
 
 | Role | Organization | Duration |
@@ -51,15 +63,21 @@ Hi, I'm Gulshan — a WordPress and full stack developer based in Bahawalpur, Pa
 | 📈 Lead Generation Expert | Leadvora Solutions | 6 months |
 | 📈 Lead Generation Expert | LeadGen | 3 months |
 
+</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 🛠️ Tech Stack & Skills
+
+<div align="center">
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,wordpress,git,github&theme=light" />
 </p>
 
 `WordPress Developer` `Full Stack Developer` `Lead Generation Expert` `Content Writer`
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
