@@ -147,7 +147,7 @@ A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-
 
 **🏋️ FlexCore Gym**
 A gym e-commerce style site featuring gym products.
-`HTML` `CSS` `JS`
+`Theme: Astra` `Plugins:` `Woocommerce, Elementor and WP admin`
 
 </td>
 <td width="50%" valign="top">
