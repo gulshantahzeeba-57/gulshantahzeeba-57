@@ -163,12 +163,12 @@ A gym e-commerce style site featuring gym products.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=github-green&hide_border=true&bg_color=00000000&title_color=2E7D32&icon_color=43A047&text_color=EAEAEA"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshantahzeeba-57&layout=compact&theme=github-green&hide_border=true&bg_color=00000000&title_color=2E7D32&text_color=EAEAEA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=2E7D32&icon_color=43A047&text_color=EAEAEA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshantahzeeba-57&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=2E7D32&text_color=EAEAEA"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshantahzeeba-57&theme=github-green-rainbow&hide_border=true&background=00000000&ring=2E7D32&fire=43A047&currStreakLabel=2E7D32"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshantahzeeba-57&theme=dark&hide_border=true&background=00000000&ring=2E7D32&fire=43A047&currStreakLabel=2E7D32"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
