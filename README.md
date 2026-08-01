@@ -81,6 +81,8 @@ Hi, I'm Gulshan — a WordPress and full stack developer based in Bahawalpur, Pa
 
 ### 🚀 Featured Projects
 
+### 💻 Web Development Projects
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -130,14 +132,18 @@ Digital agency site for businesses growing their online presence.
 Multi-page clinic site — doctors, equipment, services, pricing, blog & appointment booking.
 `HTML` `CSS` `JS`
 [Live Demo →](https://gulshantahzeeba-57.github.io/Your-Heart-Cardiac-Clinic-Website/)
-
+</tabel>
+</div>
+## 🖥️ Wordpress Projects
+<div align="center">
+<tabel>
 </td>
 <td width="50%" valign="top">
 <img src="assets/coffees-for-you.png" width="100%"/>
 
 **☕ Coffee's For You** (WordPress)
-A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-up.
-`WordPress`
+A WordPress site for a coffee brand — blog;
+`Theme: OceanWP`; `Plugins: Ocean Extra, The Post Grid, Elementor and WPForms Lite`; `WordPress`
 
 </td>
 </tr>
@@ -145,9 +151,9 @@ A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-
 <td width="50%" valign="top">
 <img src="assets/flexcore-gym.png" width="100%"/>
 
-**🏋️ FlexCore Gym**
+**🏋️ FlexCore Gym** (WordPress)
 A gym e-commerce style site featuring gym products.
-`Theme: Astra` `Plugins:` `Woocommerce, Elementor and WP admin`
+`Theme: Astra`; `Plugins:` `Woocommerce, Elementor and WP admin.`; `WordPress`
 
 </td>
 <td width="50%" valign="top">
@@ -155,7 +161,7 @@ A gym e-commerce style site featuring gym products.
 </td>
 </tr>
 </table>
-
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 📊 GitHub Stats
