@@ -137,16 +137,13 @@ Multi-page clinic site — doctors, equipment, services, pricing, blog & appoint
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🖥️ Wordpress Projects
-<div align="center">
-<table>
-<td>
+</td>
 <td width="50%" valign="top">
 <img src="assets/coffees-for-you.png" width="100%"/>
 
 **☕ Coffee's For You** (WordPress)
-A WordPress site for a coffee brand — blog;
-`Theme: OceanWP`; `Plugins: Ocean Extra, The Post Grid, Elementor and WPForms Lite`; `WordPress`
+A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-up.
+`WordPress`
 
 </td>
 </tr>
@@ -154,9 +151,9 @@ A WordPress site for a coffee brand — blog;
 <td width="50%" valign="top">
 <img src="assets/flexcore-gym.png" width="100%"/>
 
-**🏋️ FlexCore Gym** (WordPress)
+**🏋️ FlexCore Gym**
 A gym e-commerce style site featuring gym products.
-`Theme: Astra`; `Plugins:` `Woocommerce, Elementor and WP admin.`; `WordPress`
+`HTML` `CSS` `JS`
 
 </td>
 <td width="50%" valign="top">
@@ -164,7 +161,7 @@ A gym e-commerce style site featuring gym products.
 </td>
 </tr>
 </table>
-</div>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 📊 GitHub Stats
