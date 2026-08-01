@@ -135,8 +135,6 @@ Multi-page clinic site — doctors, equipment, services, pricing, blog & appoint
 </tabel>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 </td>
 <td width="50%" valign="top">
 <img src="assets/coffees-for-you.png" width="100%"/>
