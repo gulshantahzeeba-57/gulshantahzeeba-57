@@ -139,8 +139,8 @@ Multi-page clinic site — doctors, equipment, services, pricing, blog & appoint
 
 ## 🖥️ Wordpress Projects
 <div align="center">
-<tabel>
-</td>
+<table>
+<tr>
 <td width="50%" valign="top">
 <img src="assets/coffees-for-you.png" width="100%"/>
 
