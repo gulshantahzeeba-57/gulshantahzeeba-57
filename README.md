@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D2E,50:1B5E20,100:43A047&height=220&section=header&text=Gulshan%20Tahzeeba&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WordPress%20%26%20Full%20Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="assets/profile.png" width="130" style="border-radius:50%"/>
+<!-- <img src="assets/profile.png" width="130" style="border-radius:50%"/> -->
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=2E7D32&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Gulshan+%F0%9F%91%8B;WordPress+Developer+%7C+Full+Stack+Web+Dev;Lead+Generation+Expert+%7C+Content+Writer;CS+Student+%40+Islamia+University+Bahawalpur" alt="Typing SVG" />
 
