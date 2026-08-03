@@ -181,12 +181,20 @@ A gym e-commerce site built on WordPress, featuring gym products.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulshantahzeeba-57&bg_color=00000000&color=43A047&line=43A047&point=1B5E20&area=true&area_color=2E7D32&hide_border=true&title_color=2E7D32" width="100%"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 ### 🕹️ Contribution Graph — Pac-Man Edition
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/gulshantahzeeba-57/gulshantahzeeba-57/output/pacman-contribution-graph.svg" width="100%"/>
 </div>
 
-<sub>⚙️ This animates automatically once the Pac-Man GitHub Action below is set up in your profile repo.</sub>
+<sub>⚙️ This animates automatically once the Pac-Man GitHub Action (main.yml) is set up in your profile repo.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43A047,50:1B5E20,100:0B3D2E&height=120&section=footer" width="100%"/>
