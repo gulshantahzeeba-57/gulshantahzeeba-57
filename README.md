@@ -11,6 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-gulshantahzeeba%40gmail.com-1B5E20?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulshantahzeeba@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gulshan-tahzeeba-9821b7372)
 [![GitHub](https://img.shields.io/badge/-gulshantahzeeba--57-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gulshantahzeeba-57)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1B5E20?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gulshantahzeeba-57.github.io/My_Portfolio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gulshantahzeeba-57&color=2E7D32&style=for-the-badge&label=PROFILE+VIEWS)
 
