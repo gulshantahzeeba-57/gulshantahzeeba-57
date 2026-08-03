@@ -167,16 +167,12 @@ A gym e-commerce site built on WordPress, featuring gym products.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-### 📊 GitHub Stats
+
+### 📊 GitHub Metrics & Activity
 
 <div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=radical&hide_border=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true"/>
-  
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulshantahzeeba-57&theme=dark&hide_border=true&background=00000000&ring=2E7D32&fire=43A047&currStreakLabel=2E7D32"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=43A047&icon_color=2E7D32&text_color=EAEAEA&ring_color=43A047&include_all_commits=true&border_radius=12&card_width=420"/>
+<img height="200" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gulshantahzeeba-57&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=43A047&text_color=EAEAEA&border_radius=12&card_width=420"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
