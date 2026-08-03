@@ -134,15 +134,14 @@ Multi-page clinic site — doctors, equipment, services, pricing, blog & appoint
 
 </td>
 <td width="50%" valign="top">
-<img src="assets/flexcore-gym.png" width="100%"/>
-
-**🏋️ FlexCore Gym**
-A gym e-commerce style site featuring gym products.
-`HTML` `CSS` `JS`
 
 </td>
 </tr>
 </table>
+
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ### 📝 WordPress Projects
 <table>
@@ -156,6 +155,11 @@ A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-
 
 </td>
 <td width="50%" valign="top">
+<img src="assets/flexcore-gym.png" width="100%"/>
+
+**🏋️ FlexCore Gym**
+A gym e-commerce site built on WordPress, featuring gym products.
+`WordPress`
 
 </td>
 </tr>
