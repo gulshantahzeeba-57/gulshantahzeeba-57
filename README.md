@@ -8,11 +8,7 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Email-gulshantahzeeba%40gmail.com-43A047?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B5E20)](mailto:gulshantahzeeba@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43A047?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B5E20)](https://linkedin.com/in/gulshan-tahzeeba-9821b7372)
-[![GitHub](https://img.shields.io/badge/GitHub-gulshantahzeeba--57-43A047?style=for-the-badge&logo=github&logoColor=white&labelColor=1B5E20)](https://github.com/gulshantahzeeba-57)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-43A047?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1B5E20)](https://gulshantahzeeba-57.github.io/My_Portfolio/)
-
+[![Gmail](https://img.shields.io/badge/Email-gulshantahzeeba%40gmail.com-43A047?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1B5E20)](mailto:gulshantahzeeba@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-43A047?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1B5E20)](https://linkedin.com/in/gulshan-tahzeeba-9821b7372) [![GitHub](https://img.shields.io/badge/GitHub-gulshantahzeeba--57-43A047?style=for-the-badge&logo=github&logoColor=white&labelColor=1B5E20)](https://github.com/gulshantahzeeba-57) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-43A047?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1B5E20)](https://gulshantahzeeba-57.github.io/My_Portfolio/)
 ![Profile Views](https://komarev.com/ghpvc/?username=gulshantahzeeba-57&color=2E7D32&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
