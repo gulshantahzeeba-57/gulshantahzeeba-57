@@ -170,7 +170,9 @@ A gym e-commerce site built on WordPress, featuring gym products.
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=2E7D32&icon_color=43A047&text_color=EAEAEA&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&border_radius=12&card_width=400"/>
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=gulshantahzeeba-57&show_icons=true&theme=default&hide_border=true&title_color=2E7D32&icon_color=43A047&text_color=333333&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true"/>
+  
 </div>
 
 <div align="center">
