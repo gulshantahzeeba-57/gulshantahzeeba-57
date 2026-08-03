@@ -151,7 +151,8 @@ Multi-page clinic site — doctors, equipment, services, pricing, blog & appoint
 
 **☕ Coffee's For You**
 A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-up.
-`WordPress`
+`Wordpress:` `Theme:`Astra `Plugins:`Elementor, Ocean Extra, Wp Form, The Post Grid
+
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +160,7 @@ A WordPress site for a coffee brand — blog, gallery, shop and newsletter sign-
 
 **🏋️ FlexCore Gym**
 A gym e-commerce site built on WordPress, featuring gym products.
-`WordPress`
+`Wordpress:` `Theme:`Storefront `Plugins:`Woocommerce 
 
 </td>
 </tr>
